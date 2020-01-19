@@ -150,6 +150,12 @@ header {
         }
       }
     }
+
+    @media (max-width: 699px) {
+      .card-travel {
+        min-height: 480px;
+      }
+    }
   }
 }
 

@@ -135,6 +135,12 @@ header .btn-get-started:hover {
   color: #fff;
 }
 
+@media (max-width: 699px) {
+  .section-popular-content .section-popular-travel .card-travel {
+    min-height: 480px;
+  }
+}
+
 .section-networks {
   background-color: #fff;
   margin-top: -170px;
